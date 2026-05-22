@@ -14,7 +14,7 @@ benchmarked against standard ML methods.
 
 - **Source:** [Kaggle — Alzheimer's Disease Dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
 - **Patients:** 2,149
-- **Features:** 32 clinical features
+- **Features:** 35 clinical features
 - **Target:** Alzheimer's diagnosis (0 = No, 1 = Yes)
 
 ## Models Implemented
